@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-core
+langchain-google-genai
+pydantic
+python-dotenv
+uvicorn
+asgiref
